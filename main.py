@@ -2,35 +2,35 @@
 
 
 def greaterThan():
-    if x  y == true:
+    if x > y:
         print("true")
     else:
         print("false")
 
 
-def lessThan():
-    if x  y == true:
+def lessThan(x, y):
+    if x < y:
         print("true")
     else:
         print("false")
 
         
-def equalTo():
-    if x  y == true:
+def equalTo(x, y):
+    if x == y:
         print("true")
     else:
         print("false")
 
 
 def greaterOrEqual(x, y):
-    if x  y == true:
+    if x >= y:
         print("true")
     else:
         print("false")
 
 
 def lessOrEqual(x, y):
-    if x ≤ y == True:
+    if x <= y:
         print("true")
     else:
         print("false")
